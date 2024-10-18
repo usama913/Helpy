@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|c:\\users\\wmc\\desktop\\helpyservice\\helpyweb\\helpyweb\\views\\user\\friends.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|solutionrelative:helpyweb\\views\\user\\friends.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|c:\\users\\wmc\\desktop\\helpyservice\\helpyweb\\helpyweb\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|solutionrelative:helpyweb\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|c:\\users\\wmc\\desktop\\helpyservice\\helpyweb\\helpyweb\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|solutionrelative:helpyweb\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|c:\\users\\wmc\\desktop\\helpyservice\\helpyweb\\helpyweb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|solutionrelative:helpyweb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|c:\\users\\wmc\\desktop\\helpyservice\\helpyweb\\helpyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|solutionrelative:helpyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|c:\\users\\wmc\\desktop\\helpyservice\\helpyweb\\helpyweb\\controllers\\homedashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|solutionrelative:helpyweb\\controllers\\homedashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|c:\\users\\wmc\\desktop\\helpyservice\\helpyweb\\helpyweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|solutionrelative:helpyweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|c:\\users\\wmc\\desktop\\helpyservice\\helpyweb\\helpyweb\\views\\homedashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|solutionrelative:helpyweb\\views\\homedashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|c:\\users\\wmc\\desktop\\helpyservice\\helpyweb\\helpyweb\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|solutionrelative:helpyweb\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|c:\\users\\wmc\\desktop\\helpyservice\\helpyweb\\helpyweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|solutionrelative:helpyweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|c:\\users\\wmc\\desktop\\helpyservice\\helpyweb\\helpyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|solutionrelative:helpyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|c:\\users\\wmc\\desktop\\helpyservice\\helpyweb\\helpyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F12A48F9-0F05-4C82-BF7B-3B423CF0D71D}|HelpyWeb\\HelpyWeb.csproj|solutionrelative:helpyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Friends.cshtml",
+              "DocumentMoniker": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\User\\Friends.cshtml",
+              "RelativeDocumentMoniker": "HelpyWeb\\Views\\User\\Friends.cshtml",
+              "ToolTip": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\User\\Friends.cshtml",
+              "RelativeToolTip": "HelpyWeb\\Views\\User\\Friends.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T23:20:43.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "HelpyWeb\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "HelpyWeb\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T23:20:23.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "HelpyWeb\\Views\\User\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "HelpyWeb\\Views\\User\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T23:05:20.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HelpyWeb\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HelpyWeb\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAIAAACAMjMzMzMrwA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T23:04:26.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\HomeDashboard\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "HelpyWeb\\Views\\HomeDashboard\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\HomeDashboard\\Dashboard.cshtml",
+              "RelativeToolTip": "HelpyWeb\\Views\\HomeDashboard\\Dashboard.cshtml",
+              "ViewState": "AQIAAMsAAACA7pmZmZkewMMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T22:48:20.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Controllers\\HomeDashboardController.cs",
+              "RelativeDocumentMoniker": "HelpyWeb\\Controllers\\HomeDashboardController.cs",
+              "ToolTip": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Controllers\\HomeDashboardController.cs",
+              "RelativeToolTip": "HelpyWeb\\Controllers\\HomeDashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T22:47:41.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HelpyWeb\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "HelpyWeb\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAYAAAAAOTMzMzMrwCEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T22:02:45.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "HelpyWeb\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "HelpyWeb\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T21:44:37.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HelpyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HelpyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHkAAAAA/v////8rwIAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T19:31:09.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HelpyWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HelpyWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T19:31:01.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HelpyWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "HelpyWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T19:30:58.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "HelpyWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\appsettings.json",
+              "RelativeToolTip": "HelpyWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T19:29:51.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

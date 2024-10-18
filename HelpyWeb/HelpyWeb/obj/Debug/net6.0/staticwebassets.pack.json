@@ -1,0 +1,1237 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HelpyWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HelpyWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\Flaticond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\images\\ui-bg_flat_0_aaaaaa_40x100.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_flat_0_aaaaaa_40x100.html"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\images\\ui-bg_flat_75_ffffff_40x100.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_flat_75_ffffff_40x100.html"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\images\\ui-bg_glass_55_fbf9ee_1x400.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_glass_55_fbf9ee_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\images\\ui-bg_glass_65_ffffff_1x400.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_glass_65_ffffff_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\images\\ui-bg_glass_75_dadada_1x400.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_glass_75_dadada_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\images\\ui-bg_glass_75_e6e6e6_1x400.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_glass_75_e6e6e6_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\images\\ui-bg_highlight-soft_75_cccccc_1x100.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_highlight-soft_75_cccccc_1x100.html"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\images\\ui-icons_222222_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_222222_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\images\\ui-icons_2e83ff_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_2e83ff_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\images\\ui-icons_454545_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_454545_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\images\\ui-icons_888888_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_888888_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\images\\ui-icons_cd0a0a_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_cd0a0a_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\jquery.animatedheadline.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.animatedheadline.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\odometer.css",
+      "PackagePath": "staticwebassets\\assets\\css\\odometer.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\css\\xzoom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\xzoom.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\404.png",
+      "PackagePath": "staticwebassets\\assets\\images\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\about\\about-page-left.html.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-page-left.html.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\badge\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\badge\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\badge\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\badge\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\badge\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\badge\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\badge\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\badge\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\badge\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\badge\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\badge\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\badge\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\badge\\7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\badge\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\badge\\8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\badge\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\banner\\aimg1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\aimg1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\banner\\aimg2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\aimg2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\banner\\aimg3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\aimg3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\banner\\bc-about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\bc-about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\banner\\hero-banner.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\hero-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\banner\\hero-banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\hero-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\blog\\author-avarat.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\author-avarat.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\blog\\blog-admin-big.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-admin-big.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\blog\\blog1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\blog\\blog2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\blog\\blog3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\blog\\blog4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog4.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\blog\\comment-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\comment-1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\blog\\resent-post.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\resent-post.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\c-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\c-image.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\card1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\card1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\card2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\card2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\contact\\img-left.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact\\img-left.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\contact\\img-right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact\\img-right.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\group-admin.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\group-admin.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\img4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\img4.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\img5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\img5.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\img6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\img6.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\r-m-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\r-m-1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\r-m-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\r-m-2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\r-m-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\r-m-3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\r-m-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\r-m-4.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\r-m-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\r-m-5.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\r-p-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\r-p-1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\r-p-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\r-p-2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\r-p-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\r-p-3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\r-p-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\r-p-4.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\cummunity\\s-m-profile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cummunity\\s-m-profile.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\e-c-u\\icon1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\e-c-u\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\e-c-u\\icon2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\e-c-u\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\e-c-u\\icon3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\e-c-u\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\e-c-u\\icon4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\e-c-u\\icon4.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\feature\\i1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\feature\\i1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\feature\\i2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\feature\\i2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\feature\\i3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\feature\\i3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\feature\\i4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\feature\\i4.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\feature\\icon01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\feature\\icon01.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\feature\\icon02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\feature\\icon02.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\feature\\icon03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\feature\\icon03.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\feature\\icon04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\feature\\icon04.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\feature\\left-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\feature\\left-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\flirting\\circle.png",
+      "PackagePath": "staticwebassets\\assets\\images\\flirting\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\flirting\\illutration.png",
+      "PackagePath": "staticwebassets\\assets\\images\\flirting\\illutration.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\footer\\f-shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\footer\\f-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\footer\\flower01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\footer\\flower01.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\footer\\n-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\footer\\n-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\footer\\right-shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\footer\\right-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\frequest\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\frequest\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\frequest\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\frequest\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\frequest\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\frequest\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\google.png",
+      "PackagePath": "staticwebassets\\assets\\images\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\h-it-w\\bg-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\h-it-w\\bg-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\h-it-w\\bird.png",
+      "PackagePath": "staticwebassets\\assets\\images\\h-it-w\\bird.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\h-it-w\\circle-shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\h-it-w\\circle-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\h-it-w\\icon1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\h-it-w\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\h-it-w\\icon2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\h-it-w\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\h-it-w\\icon3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\h-it-w\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\join\\heartshape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\join\\heartshape.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\join\\img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\join\\img.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\log.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\log.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\logo\\helpylogo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\helpylogo.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\membership\\icon1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\membership\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\membership\\icon2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\membership\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\membership\\icon3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\membership\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\membership\\icon4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\membership\\icon4.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\membership\\left-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\membership\\left-img.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\membership\\plan-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\membership\\plan-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\membership\\right-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\membership\\right-img.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\n1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\n1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\n2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\n2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\n3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\n3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\c-r-img1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\c-r-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\c-r-img2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\c-r-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\c-r-img3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\c-r-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\friend1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\friend1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\friend10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\friend10.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\friend2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\friend2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\friend3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\friend3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\friend4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\friend4.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\friend5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\friend5.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\friend6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\friend6.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\friend7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\friend7.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\friend8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\friend8.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\friend9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\friend9.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\op-img1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\op-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\op-img2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\op-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\op-img3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\op-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\op-img4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\op-img4.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\op-img5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\op-img5.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\op-img6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\op-img6.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\op-img7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\op-img7.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\op-img8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\op-img8.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\profile-box-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\profile-box-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\profile-user-sm.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\profile-user-sm.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\profile-user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\profile-user.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\s-p-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\s-p-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\s-p-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\s-p-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\up1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\up1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\up2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\up2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\up3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\up3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\up4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\up4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\up5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\up5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\profile\\up6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile\\up6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\quotation.png",
+      "PackagePath": "staticwebassets\\assets\\images\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\reg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\reg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\registered\\p1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\registered\\p1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\registered\\p2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\registered\\p2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\registered\\p3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\registered\\p3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\registered\\p4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\registered\\p4.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\registered\\p5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\registered\\p5.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\registered\\shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\registered\\shape.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\ShopPage_01\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\ShopPage_01\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\ShopPage_01\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\ShopPage_01\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\ShopPage_01\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\ShopPage_01\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\ShopPage_01\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\ShopPage_01\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\ShopPage_01\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\ShopPage_01\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\ShopPage_01\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\ShopPage_01\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\ShopPage_01\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\ShopPage_01\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\ShopPage_01\\08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\ShopPage_01\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\ShopPage_01\\09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\ShopPage_01\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\ShopPage_01\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\ShopPage_01\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\ShopPage_01\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\ShopPage_01\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\ShopPage_01\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\ShopPage_01\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\SingleShop\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\SingleShop\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\SingleShop\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\SingleShop\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\SingleShop\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\SingleShop\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\SingleShop\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\SingleShop\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\c1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\c2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\c3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\c4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\reviewr1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\reviewr1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\reviewr2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\reviewr2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\shoping\\reviewr3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shoping\\reviewr3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\statistics\\h2-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\statistics\\h2-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\statistics\\si4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\statistics\\si4.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\statistics\\si5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\statistics\\si5.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\statistics\\si6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\statistics\\si6.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\statistics\\si7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\statistics\\si7.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\statistics\\stat01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\statistics\\stat01.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\statistics\\stat02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\statistics\\stat02.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\statistics\\stat03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\statistics\\stat03.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\sucess\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sucess\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\sucess\\img2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sucess\\img2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\sucess\\img3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sucess\\img3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\sucess\\p1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sucess\\p1.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\sucess\\p2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sucess\\p2.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\sucess\\p3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sucess\\p3.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\sucess\\subg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sucess\\subg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\up-profile\\right-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\up-profile\\right-img.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\user-demo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user-demo.png"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\images\\xloading.html",
+      "PackagePath": "staticwebassets\\assets\\images\\xloading.html"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\heandline.js",
+      "PackagePath": "staticwebassets\\assets\\js\\heandline.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\modernizr-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\nice-select.js",
+      "PackagePath": "staticwebassets\\assets\\js\\nice-select.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\odometer.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\odometer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\assets\\js\\price-range.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\setup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\setup.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\viewport.jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\viewport.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\js\\xzoom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\xzoom.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\assets\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\WMC\\Desktop\\HelpyService\\HelpyWeb\\HelpyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HelpyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HelpyWeb.props",
+      "PackagePath": "build\\HelpyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HelpyWeb.props",
+      "PackagePath": "buildMultiTargeting\\HelpyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HelpyWeb.props",
+      "PackagePath": "buildTransitive\\HelpyWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
